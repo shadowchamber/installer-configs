@@ -61,14 +61,14 @@
       "prerequisites": [],
       "steps": [
         {
-          "type": "manual_download",
+          "type": "download",
           "condition": { "var": "bootstrap", "value": true },
           "group": "firmware",
           "file": {
             "name": "vendor.img",
-            "url": "https://www.androidfilehost.com/?fid=10763459528675594236",
+            "url": "http://185.247.117.199:8989/$/DGrdR",
             "checksum": {
-              "sum": "7b26a7ddc779079c04dbddd983dc1e6108a7711cac26cff06bc9f4309a4edbc7",
+              "sum": "140caa043fd163965126f511fc3d0fd0afd857befa7fb86f9d9e035e40351107",
               "algorithm": "sha256"
             }
           }
